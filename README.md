@@ -16,3 +16,9 @@ Blogs
 Projects
 =========
 1. [https://github.com/twitter/twemproxy](https://github.com/twitter/twemproxy)
+
+Persistence
+=========
+1. [atomic commit](http://sqlite.org/atomiccommit.html)
+2. [redis persistence demystified](http://oldblog.antirez.com/post/redis-persistence-demystified.html)
+
