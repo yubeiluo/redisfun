@@ -25,3 +25,5 @@ Persistence
 Advanced
 ========
 1. [Redis WATCH MULTI EXEC by one client](http://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client)
+2. [redis-lock](https://github.com/errorception/redis-lock)
+3. [setnx](http://redis.io/commands/setnx)
