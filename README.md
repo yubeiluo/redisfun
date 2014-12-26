@@ -22,3 +22,6 @@ Persistence
 1. [atomic commit](http://sqlite.org/atomiccommit.html)
 2. [redis persistence demystified](http://oldblog.antirez.com/post/redis-persistence-demystified.html)
 
+Advanced
+========
+1. [Redis WATCH MULTI EXEC by one client](http://stackoverflow.com/questions/15776955/redis-watch-multi-exec-by-one-client)
